@@ -785,6 +785,7 @@ if (isset($_POST['nome'], $_POST['telefone'], $_POST['estado'], $_POST['cidade']
 					</div>
 					</div>
 					<p>GNU General Public License 2</p>
+					<p><a href="https://github.com/rafaorlando3/tchelinuxpelotas.git" target="_blank" style="color:white;"><b>Código Fonte</b></a></p>
 				</div>
 			</div>	
 		</div>
